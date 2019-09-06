@@ -5,6 +5,7 @@ V0.1:
 - 30x30mm form factor
 - f722 target betaflight FuryOSD
 - icm20602 32khz gyro
+- mpu6000 gyro
 - osd 7452
 - through hole pads
 - bec 5v 2a
