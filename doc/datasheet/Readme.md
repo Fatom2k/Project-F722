@@ -1,0 +1,1 @@
+Here stand datasheet of different parts we use in the project
