@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kicad-libraries-master)(type KiCad)(uri C:/Users/fatom/Documents/projects/kicad_libs/kicad-libraries-master)(options "")(descr ""))
+  (lib (name ti)(type KiCad)(uri ${KIPRJMOD}/lib/footprints.pretty)(options "")(descr ""))
+)

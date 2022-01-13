@@ -1,0 +1,5 @@
+Numérotation GND en #PWR017
+Numérotation C_Small en C10
+Numérotation C_Small en C11
+Numérotation USB_C_Receptacle_USB2.0 en J1
+Numérotation 8MHz en Y1
